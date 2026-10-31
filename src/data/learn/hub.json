@@ -1,0 +1,21 @@
+{
+  "missions": [
+    {"id":"chandrayaan-3","name":{"en":"Chandrayaan-3","hi":"चंद्रयान-3"},"group":"ISRO","status":"complete"},
+    {"id":"mangalyaan","name":{"en":"Mars Orbiter Mission (Mangalyaan)","hi":"मंगल ऑर्बिटर मिशन (मंगलयान)"},"group":"ISRO","status":"complete"},
+    {"id":"aditya-l1","name":{"en":"Aditya-L1","hi":"आदित्य-L1"},"group":"ISRO","status":"complete"},
+    {"id":"aryabhata","name":{"en":"Aryabhata","hi":"आर्यभट्ट"},"group":"ISRO"},
+    {"id":"chandrayaan-1","name":{"en":"Chandrayaan-1","hi":"चंद्रयान-1"},"group":"ISRO"},
+    {"id":"chandrayaan-2","name":{"en":"Chandrayaan-2","hi":"चंद्रयान-2"},"group":"ISRO"},
+    {"id":"gaganyaan","name":{"en":"Gaganyaan (planned)","hi":"गगनयान (नियोजित)"},"group":"ISRO"},
+    {"id":"apollo-11","name":{"en":"Apollo 11","hi":"अपोलो 11"},"group":"NASA"},
+    {"id":"voyager","name":{"en":"Voyager","hi":"वॉयेजर"},"group":"NASA"},
+    {"id":"hubble","name":{"en":"Hubble Space Telescope","hi":"हबल स्पेस टेलीस्कोप"},"group":"NASA"},
+    {"id":"james-webb","name":{"en":"James Webb Space Telescope","hi":"जेम्स वेब स्पेस टेलीस्कोप"},"group":"NASA"},
+    {"id":"rosetta","name":{"en":"Rosetta","hi":"रोसेटा"},"group":"Others"},
+    {"id":"hayabusa2","name":{"en":"Hayabusa2","hi":"हायाबुसा2"},"group":"Others"}
+  ],
+  "facts": {
+    "en": ["Chandrayaan-3’s propulsion module carried SHAPE to study Earth from lunar orbit.","Aditya-L1 observes the Sun from a halo orbit around the Sun–Earth L1 region.","Mangalyaan carried five scientific instruments to study Mars and its environment."],
+    "hi": ["चंद्रयान-3 के प्रोपल्शन मॉड्यूल में चंद्र कक्षा से पृथ्वी का अध्ययन करने वाला SHAPE उपकरण था।","आदित्य-L1 सूर्य–पृथ्वी L1 क्षेत्र के चारों ओर हेलो कक्षा से सूर्य को देखता है।","मंगलयान में मंगल और उसके वातावरण के अध्ययन के लिए पाँच वैज्ञानिक उपकरण थे।"]
+  }
+}

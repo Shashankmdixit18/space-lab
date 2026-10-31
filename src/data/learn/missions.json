@@ -1,0 +1,500 @@
+{
+  "missions": [
+    {
+      "id": "chandrayaan-3",
+      "category": "ISRO",
+      "gameMission": 1,
+      "en": {
+        "name": "Chandrayaan-3",
+        "date": "14 July 2023 · Lunar landing 23 August 2023",
+        "why": "After Chandrayaan-2, India set out to demonstrate a complete ability to land safely on the Moon, drive a rover, and perform science at the landing site.",
+        "objectives": [
+          "Demonstrate a safe, soft landing on the Moon.",
+          "Demonstrate rover movement on the lunar surface.",
+          "Carry out in-situ science experiments."
+        ],
+        "vehicle": "LVM3-M4 (Launch Vehicle Mark-3)",
+        "timeline": [
+          [
+            "14 Jul 2023",
+            "Launch from SDSC SHAR, Sriharikota."
+          ],
+          [
+            "5 Aug 2023",
+            "Spacecraft entered lunar orbit."
+          ],
+          [
+            "17 Aug 2023",
+            "Lander module separated from propulsion module."
+          ],
+          [
+            "23 Aug 2023",
+            "Vikram made a soft landing; Pragyan rover was deployed."
+          ],
+          [
+            "13 Oct 2023",
+            "The propulsion module performed a Trans-Earth injection toward an Earth-bound orbit for an additional experiment."
+          ]
+        ],
+        "achievements": [
+          "A successful soft landing in the Moon’s southern high latitudes.",
+          "Pragyan operated on the surface and returned local measurements.",
+          "The lander and rover completed their planned one-lunar-day surface mission (about 14 Earth days).",
+          "LIBS confirmed sulphur in lunar soil near the south pole—the first in-situ elemental measurement of the lunar surface in that region. ISRO also reported aluminium, calcium, iron, chromium and titanium in preliminary analysis."
+        ],
+        "instruments": [
+          "Lander: ChaSTE (surface thermal properties), ILSA (lunar seismicity), RAMBHA-LP (near-surface plasma), and a NASA laser retroreflector array.",
+          "Rover: LIBS and APXS (local elemental composition).",
+          "Propulsion module: SHAPE (spectro-polarimetry of Earth)."
+        ],
+        "learned": "ChaSTE measured temperatures below the surface near the south polar region. ILSA recorded vibrations, while RAMBHA-LP measured the near-surface plasma environment. LIBS and APXS identified elements in lunar soil and rocks near the rover. These are local measurements from the landing area, not a map of the whole Moon. ISRO reported that LIBS confirmed sulphur in the landing region, while initial APXS analysis identified major elements and several minor ones. These findings describe the local landing area.",
+        "fun": [
+          "The rover’s name, Pragyan, means ‘wisdom’.",
+          "The propulsion module continued in an Earth orbit after its lunar work, allowing further experiments."
+        ],
+        "quiz": [
+          {
+            "q": "What was Chandrayaan-3 designed to demonstrate?",
+            "options": [
+              "Soft landing, rover movement and in-situ science",
+              "A crewed lunar landing",
+              "A sample return to Earth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name of the rover?",
+            "options": [
+              "Vikram",
+              "Pragyan",
+              "Aryabhata"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which instrument measured near-surface lunar plasma?",
+            "options": [
+              "RAMBHA-LP",
+              "SHAPE",
+              "ChaSTE"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "hi": {
+        "name": "चंद्रयान-3",
+        "date": "14 जुलाई 2023 · चंद्र अवतरण 23 अगस्त 2023",
+        "why": "चंद्रयान-2 के बाद भारत ने चंद्रमा पर सुरक्षित उतरने, रोवर चलाने और स्थल पर वैज्ञानिक प्रयोग करने की पूरी क्षमता प्रदर्शित करने का लक्ष्य रखा।",
+        "objectives": [
+          "चंद्रमा पर सुरक्षित सॉफ्ट लैंडिंग प्रदर्शित करना।",
+          "चंद्र सतह पर रोवर की गति प्रदर्शित करना।",
+          "स्थल पर वैज्ञानिक प्रयोग करना।"
+        ],
+        "vehicle": "LVM3-M4 (लॉन्च व्हीकल मार्क-3)",
+        "timeline": [
+          [
+            "14 जुलाई 2023",
+            "श्रीहरिकोटा के SDSC SHAR से प्रक्षेपण।"
+          ],
+          [
+            "5 अगस्त 2023",
+            "अंतरिक्ष यान चंद्र कक्षा में पहुँचा।"
+          ],
+          [
+            "17 अगस्त 2023",
+            "लैंडर मॉड्यूल प्रोपल्शन मॉड्यूल से अलग हुआ।"
+          ],
+          [
+            "23 अगस्त 2023",
+            "विक्रम ने सॉफ्ट लैंडिंग की; प्रज्ञान रोवर बाहर आया।"
+          ],
+          [
+            "2 सितंबर 2023",
+            "अतिरिक्त प्रयोग के लिए प्रोपल्शन मॉड्यूल को चंद्र कक्षा से पृथ्वी-बद्ध कक्षा में ले जाया गया।"
+          ]
+        ],
+        "achievements": [
+          "चंद्रमा के दक्षिणी उच्च अक्षांशों में सफल सॉफ्ट लैंडिंग।",
+          "प्रज्ञान ने सतह पर काम किया और स्थानीय माप लिए।",
+          "लैंडर और रोवर ने नियोजित एक चंद्र दिवस (लगभग 14 पृथ्वी-दिन) का सतही मिशन पूरा किया।",
+          "LIBS ने दक्षिण ध्रुव के पास चंद्र मिट्टी में गंधक की पुष्टि की—उस क्षेत्र की चंद्र सतह पर तत्वों का पहला यथास्थित मापन। इसरो के प्रारंभिक विश्लेषण में एल्युमिनियम, कैल्शियम, लोहा, क्रोमियम और टाइटेनियम भी बताए गए।"
+        ],
+        "instruments": [
+          "लैंडर: ChaSTE (सतह के तापीय गुण), ILSA (चंद्र भूकंपीयता), RAMBHA-LP (सतह के पास प्लाज़्मा) और NASA का लेज़र रेट्रोरिफ्लेक्टर।",
+          "रोवर: LIBS और APXS (स्थानीय तत्वीय संरचना)।",
+          "प्रोपल्शन मॉड्यूल: SHAPE (पृथ्वी का स्पेक्ट्रो-पोलरिमेट्री अध्ययन)।"
+        ],
+        "learned": "ChaSTE ने दक्षिण ध्रुवीय क्षेत्र के पास सतह के नीचे तापमान मापा। ILSA ने कंपन दर्ज किए और RAMBHA-LP ने सतह के पास प्लाज़्मा मापा। LIBS और APXS ने रोवर के आसपास की मिट्टी और चट्टानों के तत्व पहचाने। ये लैंडिंग क्षेत्र के स्थानीय माप हैं, पूरे चंद्रमा का मानचित्र नहीं। इसरो ने बताया कि LIBS ने अवतरण क्षेत्र में गंधक की पुष्टि की और APXS के प्रारंभिक विश्लेषण में प्रमुख तथा कुछ गौण तत्व मिले। ये निष्कर्ष स्थानीय अवतरण क्षेत्र के हैं।",
+        "fun": [
+          "प्रज्ञान नाम का अर्थ ‘बुद्धि’ है।",
+          "चंद्रमा संबंधी कार्य के बाद प्रोपल्शन मॉड्यूल पृथ्वी की कक्षा में रहा और अतिरिक्त प्रयोग कर सका।"
+        ],
+        "quiz": [
+          {
+            "q": "चंद्रयान-3 किन क्षमताओं को प्रदर्शित करने के लिए बनाया गया था?",
+            "options": [
+              "सॉफ्ट लैंडिंग, रोवर संचालन और स्थल पर विज्ञान",
+              "मानवयुक्त चंद्र अवतरण",
+              "पृथ्वी पर नमूना वापसी"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "रोवर का नाम क्या है?",
+            "options": [
+              "विक्रम",
+              "प्रज्ञान",
+              "आर्यभट्ट"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "किस उपकरण ने सतह के पास चंद्र प्लाज़्मा मापा?",
+            "options": [
+              "RAMBHA-LP",
+              "SHAPE",
+              "ChaSTE"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "sources": [
+        "https://www.isro.gov.in/Chandrayaan3_Details.html",
+        "https://www.isro.gov.in/Ch3_Propulsion_Module_moved_from_Lunar_orbit_to_Earth_orbit.html?s=03",
+        "https://www.isro.gov.in/Release_of_Chandrayaan-3_science_data_to_the_Scientific_Community.html",
+        "https://www.isro.gov.in/ISRO_EN/LIBSResults.html",
+        "https://www.isro.gov.in/Ch3_ScienceResults.html",
+        "https://www.isro.gov.in/APXS.html"
+      ]
+    },
+    {
+      "id": "mangalyaan",
+      "category": "ISRO",
+      "gameMission": 2,
+      "en": {
+        "name": "Mars Orbiter Mission (Mangalyaan)",
+        "date": "5 November 2013 · Mars orbit insertion 24 September 2014",
+        "why": "Mangalyaan was India’s first interplanetary mission. It tested deep-space navigation, communications and autonomous spacecraft operations while studying Mars and its atmosphere.",
+        "objectives": [
+          "Develop and demonstrate technologies for an interplanetary mission.",
+          "Study Mars’ surface features, morphology and mineralogy.",
+          "Study the Martian atmosphere, including a search for methane."
+        ],
+        "vehicle": "PSLV-C25 (XL configuration)",
+        "timeline": [
+          [
+            "5 Nov 2013",
+            "Launched from SDSC SHAR, Sriharikota."
+          ],
+          [
+            "Nov–Dec 2013",
+            "A series of Earth-orbit manoeuvres raised the spacecraft’s orbit."
+          ],
+          [
+            "1 Dec 2013",
+            "Trans-Mars injection began the journey out of Earth orbit."
+          ],
+          [
+            "24 Sep 2014",
+            "Mars Orbit Insertion placed the spacecraft in an elliptical orbit around Mars."
+          ],
+          [
+            "2014–2022",
+            "The orbiter returned observations from Mars; ISRO later reported that communication had been lost and the mission had ended."
+          ]
+        ],
+        "achievements": [
+          "India became the first nation to reach Mars orbit on its first attempt.",
+          "The mission demonstrated end-to-end interplanetary navigation and deep-space communication.",
+          "The Mars Colour Camera returned images; five scientific instruments were carried.",
+          "MENCA detected suprathermal argon in Mars’ exosphere; observations also contributed to studies of atmospheric escape during a global dust storm.",
+          "The Mars Colour Camera helped create a Mars atlas and imaged the far side of Deimos for the first time."
+        ],
+        "instruments": [
+          "Mars Colour Camera (MCC): colour images and surface/weather features.",
+          "Methane Sensor for Mars (MSM): searched for atmospheric methane.",
+          "Thermal Infrared Imaging Spectrometer (TIS): thermal emission from the surface.",
+          "Lyman Alpha Photometer (LAP): hydrogen and deuterium in the upper atmosphere.",
+          "Mars Exospheric Neutral Composition Analyser (MENCA): neutral particles in the exosphere."
+        ],
+        "learned": "MOM supplied images and measurements of Mars’ surface, atmosphere and exosphere. Its instruments were designed to investigate methane, thermal features and the loss of hydrogen-bearing species. A measurement or search is not by itself evidence of life; methane detection must be interpreted carefully and confirmed.",
+        "fun": [
+          "The spacecraft travelled for about ten months before Mars orbit insertion.",
+          "Mangalyaan is commonly translated as ‘Mars craft’ or ‘Mars vehicle’."
+        ],
+        "quiz": [
+          {
+            "q": "Which launch vehicle carried Mangalyaan?",
+            "options": [
+              "PSLV-C25",
+              "LVM3-M4",
+              "GSLV-F12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When did Mars Orbit Insertion take place?",
+            "options": [
+              "24 September 2014",
+              "5 November 2013",
+              "14 July 2015"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which instrument searched for methane?",
+            "options": [
+              "MSM",
+              "MCC",
+              "TIS"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "hi": {
+        "name": "मंगल ऑर्बिटर मिशन (मंगलयान)",
+        "date": "5 नवंबर 2013 · मंगल कक्षा प्रवेश 24 सितंबर 2014",
+        "why": "मंगलयान भारत का पहला अंतरग्रहीय मिशन था। इसने मंगल और उसके वायुमंडल का अध्ययन करते हुए गहन-अंतरिक्ष नेविगेशन, संचार और स्वायत्त अंतरिक्ष यान संचालन का परीक्षण किया।",
+        "objectives": [
+          "अंतरग्रहीय मिशन के लिए तकनीक विकसित और प्रदर्शित करना।",
+          "मंगल की सतही बनावट, भू-आकृति और खनिजों का अध्ययन करना।",
+          "मंगल के वायुमंडल का अध्ययन करना, जिसमें मीथेन की खोज भी शामिल थी।"
+        ],
+        "vehicle": "PSLV-C25 (XL विन्यास)",
+        "timeline": [
+          [
+            "5 नवंबर 2013",
+            "श्रीहरिकोटा के SDSC SHAR से प्रक्षेपण।"
+          ],
+          [
+            "नवंबर–दिसंबर 2013",
+            "पृथ्वी-कक्षा के कई प्रचालनों से कक्षा ऊँची की गई।"
+          ],
+          [
+            "1 दिसंबर 2013",
+            "ट्रांस-मंगल इंजेक्शन ने पृथ्वी कक्षा से बाहर की यात्रा शुरू की।"
+          ],
+          [
+            "24 सितंबर 2014",
+            "मंगल कक्षा प्रवेश ने यान को मंगल के चारों ओर दीर्घवृत्ताकार कक्षा में रखा।"
+          ],
+          [
+            "2014–2022",
+            "ऑर्बिटर ने मंगल के अवलोकन भेजे; बाद में इसरो ने बताया कि संचार टूट गया था और मिशन समाप्त हो गया।"
+          ]
+        ],
+        "achievements": [
+          "भारत पहली कोशिश में मंगल कक्षा तक पहुँचने वाला पहला देश बना।",
+          "मिशन ने अंतरग्रहीय नेविगेशन और गहन-अंतरिक्ष संचार की पूरी प्रक्रिया प्रदर्शित की।",
+          "मंगल कलर कैमरा ने तस्वीरें भेजीं; यान पर पाँच वैज्ञानिक उपकरण थे।",
+          "MENCA ने मंगल के बाह्यमंडल में अतितापीय आर्गन पाया; अवलोकनों ने वैश्विक धूल-तूफान के दौरान वायुमंडल के पलायन के अध्ययन में भी योगदान दिया।",
+          "मंगल कलर कैमरा ने मंगल एटलस बनाने में मदद की और पहली बार डीमोस के दूर वाले हिस्से का चित्र लिया।"
+        ],
+        "instruments": [
+          "Mars Colour Camera (MCC): रंगीन चित्र और सतही/मौसमी विशेषताएँ।",
+          "Methane Sensor for Mars (MSM): वायुमंडलीय मीथेन की खोज।",
+          "Thermal Infrared Imaging Spectrometer (TIS): सतह से तापीय उत्सर्जन।",
+          "Lyman Alpha Photometer (LAP): ऊपरी वायुमंडल में हाइड्रोजन और ड्यूटेरियम।",
+          "Mars Exospheric Neutral Composition Analyser (MENCA): बाह्यमंडल के उदासीन कण।"
+        ],
+        "learned": "MOM ने मंगल की सतह, वायुमंडल और बाह्यमंडल के चित्र तथा माप दिए। उपकरण मीथेन, तापीय विशेषताओं और हाइड्रोजन-युक्त पदार्थों के पलायन की जाँच के लिए बनाए गए थे। खोज या माप अपने-आप में जीवन का प्रमाण नहीं होता; मीथेन के संकेतों की सावधानी से व्याख्या और पुष्टि आवश्यक है।",
+        "fun": [
+          "मंगल कक्षा प्रवेश से पहले अंतरिक्ष यान ने लगभग दस महीने यात्रा की।",
+          "मंगलयान का सामान्य अर्थ ‘मंगल का यान’ है।"
+        ],
+        "quiz": [
+          {
+            "q": "मंगलयान को किस प्रक्षेपण यान ने ले गया?",
+            "options": [
+              "PSLV-C25",
+              "LVM3-M4",
+              "GSLV-F12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "मंगल कक्षा प्रवेश कब हुआ?",
+            "options": [
+              "24 सितंबर 2014",
+              "5 नवंबर 2013",
+              "14 जुलाई 2015"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "मीथेन की खोज किस उपकरण ने की?",
+            "options": [
+              "MSM",
+              "MCC",
+              "TIS"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "sources": [
+        "https://www.isro.gov.in/ISRO_EN/MOM.html",
+        "https://www.isro.gov.in/ISRO_EN/mission_overview_mars_orbiter_mission.html",
+        "https://www.isro.gov.in/MOM_NationalMeet_2022SEP.html",
+        "https://www.isro.gov.in/MarsOrbiterMissionSpacecraft.html"
+      ]
+    },
+    {
+      "id": "aditya-l1",
+      "category": "ISRO",
+      "gameMission": 3,
+      "en": {
+        "name": "Aditya-L1",
+        "date": "2 September 2023 · Halo-orbit insertion 6 January 2024",
+        "why": "Aditya-L1 is India’s first space-based solar observatory. From a halo orbit around the Sun–Earth L1 region, it studies the Sun and samples particles and magnetic fields in the surrounding space environment.",
+        "objectives": [
+          "Study the dynamics of the solar chromosphere and corona.",
+          "Investigate coronal heating, solar flares and coronal mass ejections.",
+          "Measure solar-wind particles and magnetic fields near L1 to improve understanding of space weather."
+        ],
+        "vehicle": "PSLV-C57",
+        "timeline": [
+          [
+            "2 Sep 2023",
+            "Launched into an elliptical Earth parking orbit."
+          ],
+          [
+            "19 Sep 2023",
+            "Trans-L1 injection began the cruise toward L1."
+          ],
+          [
+            "6 Jan 2024",
+            "Aditya-L1 entered its planned halo orbit around Sun–Earth L1."
+          ],
+          [
+            "After insertion",
+            "The spacecraft began commissioning its seven payloads for solar and in-situ observations."
+          ]
+        ],
+        "achievements": [
+          "India’s first space-based solar observatory reached its Sun–Earth L1 halo orbit.",
+          "The chosen orbit provides a continuous, unobstructed view of the Sun for much of the orbit.",
+          "Seven payloads provide remote-sensing and in-situ measurements."
+        ],
+        "instruments": [
+          "Remote sensing: VELC, SUIT, SoLEXS and HEL1OS.",
+          "In-situ: ASPEX, PAPA and the Advanced Tri-axial High Resolution Digital Magnetometers (MAG)."
+        ],
+        "learned": "The mission is designed to connect solar activity with the particles and magnetic fields travelling through space. The L1 vantage point lets scientists observe solar features while instruments measure the local solar-wind environment. L1 is not a fixed point where gravity disappears: the spacecraft follows a three-dimensional halo orbit and needs station-keeping.",
+        "fun": [
+          "L1 is roughly 1.5 million kilometres from Earth toward the Sun.",
+          "Aditya-L1’s halo orbit has a period of about 177.86 Earth days."
+        ],
+        "quiz": [
+          {
+            "q": "Where does Aditya-L1 operate?",
+            "options": [
+              "A halo orbit around Sun–Earth L1",
+              "A low Earth orbit",
+              "On the solar surface"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many scientific payloads does it carry?",
+            "options": [
+              "Five",
+              "Seven",
+              "Ten"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which payload is the visible emission line coronagraph?",
+            "options": [
+              "VELC",
+              "PAPA",
+              "ASPEX"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "hi": {
+        "name": "आदित्य-L1",
+        "date": "2 सितंबर 2023 · हेलो-कक्षा प्रवेश 6 जनवरी 2024",
+        "why": "आदित्य-L1 भारत की पहली अंतरिक्ष-आधारित सौर वेधशाला है। सूर्य–पृथ्वी L1 क्षेत्र के चारों ओर हेलो कक्षा से यह सूर्य का अध्ययन करती है और आसपास के अंतरिक्ष में कणों तथा चुंबकीय क्षेत्रों के माप लेती है।",
+        "objectives": [
+          "सौर क्रोमोस्फीयर और कोरोना की गतिशीलता का अध्ययन करना।",
+          "कोरोना का ताप, सौर ज्वालाएँ और कोरोनल मास इजेक्शन की जाँच करना।",
+          "L1 के पास सौर-वायु कण और चुंबकीय क्षेत्र मापकर अंतरिक्ष-मौसम को समझना।"
+        ],
+        "vehicle": "PSLV-C57",
+        "timeline": [
+          [
+            "2 सितंबर 2023",
+            "दीर्घवृत्ताकार पृथ्वी पार्किंग कक्षा में प्रक्षेपण।"
+          ],
+          [
+            "19 सितंबर 2023",
+            "ट्रांस-L1 इंजेक्शन से L1 की यात्रा शुरू हुई।"
+          ],
+          [
+            "6 जनवरी 2024",
+            "आदित्य-L1 सूर्य–पृथ्वी L1 के चारों ओर नियोजित हेलो कक्षा में पहुँचा।"
+          ],
+          [
+            "कक्षा प्रवेश के बाद",
+            "सौर और स्थानीय अंतरिक्ष अवलोकनों के लिए सातों उपकरणों की कमीशनिंग शुरू हुई।"
+          ]
+        ],
+        "achievements": [
+          "भारत की पहली अंतरिक्ष-आधारित सौर वेधशाला सूर्य–पृथ्वी L1 हेलो कक्षा तक पहुँची।",
+          "चुनी गई कक्षा से अधिकांश कक्षीय अवधि में सूर्य का लगातार, बिना रुकावट अवलोकन संभव है।",
+          "सात उपकरण दूरस्थ अवलोकन और स्थानीय माप करते हैं।"
+        ],
+        "instruments": [
+          "दूरस्थ अवलोकन: VELC, SUIT, SoLEXS और HEL1OS।",
+          "स्थानीय माप: ASPEX, PAPA और Advanced Tri-axial High Resolution Digital Magnetometers (MAG)।"
+        ],
+        "learned": "यह मिशन सौर गतिविधि को अंतरिक्ष में यात्रा करने वाले कणों और चुंबकीय क्षेत्रों से जोड़कर समझने के लिए बनाया गया है। L1 से वैज्ञानिक सौर विशेषताएँ देखते हैं और उपकरण स्थानीय सौर-वायु वातावरण मापते हैं। L1 ऐसा स्थिर बिंदु नहीं है जहाँ गुरुत्व समाप्त हो जाता है: यान त्रि-आयामी हेलो कक्षा में रहता है और उसकी कक्षा बनाए रखने के लिए सुधार आवश्यक हैं।",
+        "fun": [
+          "L1 पृथ्वी से सूर्य की दिशा में लगभग 15 लाख किलोमीटर दूर है।",
+          "आदित्य-L1 की हेलो कक्षा की अवधि लगभग 177.86 पृथ्वी-दिन है।"
+        ],
+        "quiz": [
+          {
+            "q": "आदित्य-L1 कहाँ काम करता है?",
+            "options": [
+              "सूर्य–पृथ्वी L1 के चारों ओर हेलो कक्षा",
+              "निम्न पृथ्वी कक्षा",
+              "सूर्य की सतह पर"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "इसमें कितने वैज्ञानिक उपकरण हैं?",
+            "options": [
+              "पाँच",
+              "सात",
+              "दस"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Visible Emission Line Coronagraph कौन-सा उपकरण है?",
+            "options": [
+              "VELC",
+              "PAPA",
+              "ASPEX"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "sources": [
+        "https://www.isro.gov.in/Aditya_L1.html",
+        "https://www.isro.gov.in/ISRO_EN/PSLVC57_AdityaL1_PressRelease.html",
+        "https://www.isro.gov.in/halo-orbit-insertion-adtya-l1.html"
+      ]
+    }
+  ]
+}

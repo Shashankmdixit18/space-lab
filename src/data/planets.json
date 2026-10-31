@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sun",
+    "name_hi": "सूर्य",
+    "distance_from_sun_km": 0,
+    "diameter_km": 1393000,
+    "orbital_period": { "value": 230000000, "unit": "Earth years around the Milky Way" },
+    "display_color": "#FFC857",
+    "fun_fact_en": "Sunlight takes about 8 minutes 20 seconds to reach Earth.",
+    "fun_fact_hi": "सूर्य के प्रकाश को पृथ्वी तक पहुँचने में लगभग 8 मिनट 20 सेकंड लगते हैं।"
+  },
+  {
+    "name": "Mercury",
+    "name_hi": "बुध",
+    "distance_from_sun_km": 57900000,
+    "diameter_km": 4879,
+    "orbital_period": { "value": 88, "unit": "Earth days" },
+    "display_color": "#8D8984",
+    "fun_fact_en": "Mercury completes one trip around the Sun in just 88 Earth days.",
+    "fun_fact_hi": "बुध सूर्य का एक चक्कर केवल 88 पृथ्वी-दिनों में पूरा करता है।"
+  },
+  {
+    "name": "Venus",
+    "name_hi": "शुक्र",
+    "distance_from_sun_km": 108200000,
+    "diameter_km": 12104,
+    "orbital_period": { "value": 224.7, "unit": "Earth days" },
+    "display_color": "#E7C47A",
+    "fun_fact_en": "Venus spins in the opposite direction to most planets.",
+    "fun_fact_hi": "शुक्र अधिकांश ग्रहों की तुलना में उल्टी दिशा में घूमता है।"
+  },
+  {
+    "name": "Earth",
+    "name_hi": "पृथ्वी",
+    "distance_from_sun_km": 149600000,
+    "diameter_km": 12756,
+    "orbital_period": { "value": 365.2, "unit": "Earth days" },
+    "display_color": "#3B82F6",
+    "fun_fact_en": "Earth is the only world known to support life.",
+    "fun_fact_hi": "पृथ्वी अब तक ज्ञात एकमात्र ऐसा संसार है जहाँ जीवन मौजूद है।"
+  },
+  {
+    "name": "Mars",
+    "name_hi": "मंगल",
+    "distance_from_sun_km": 228000000,
+    "diameter_km": 6792,
+    "orbital_period": { "value": 687, "unit": "Earth days" },
+    "display_color": "#C65A3D",
+    "fun_fact_en": "Mars is home to Olympus Mons, the largest known volcano in the solar system.",
+    "fun_fact_hi": "मंगल पर ओलिम्पस मॉन्स है, जो सौर मंडल का ज्ञात सबसे बड़ा ज्वालामुखी है।"
+  },
+  {
+    "name": "Jupiter",
+    "name_hi": "बृहस्पति",
+    "distance_from_sun_km": 778500000,
+    "diameter_km": 142984,
+    "orbital_period": { "value": 4331, "unit": "Earth days" },
+    "display_color": "#D9A066",
+    "fun_fact_en": "Jupiter is the largest planet in our solar system.",
+    "fun_fact_hi": "बृहस्पति हमारे सौर मंडल का सबसे बड़ा ग्रह है।"
+  },
+  {
+    "name": "Saturn",
+    "name_hi": "शनि",
+    "distance_from_sun_km": 1432000000,
+    "diameter_km": 120536,
+    "orbital_period": { "value": 10747, "unit": "Earth days" },
+    "display_color": "#E8D2A0",
+    "fun_fact_en": "Saturn is the only planet whose average density is lower than water's.",
+    "fun_fact_hi": "शनि एकमात्र ऐसा ग्रह है जिसका औसत घनत्व पानी से कम है।"
+  },
+  {
+    "name": "Uranus",
+    "name_hi": "अरुण",
+    "distance_from_sun_km": 2867000000,
+    "diameter_km": 51118,
+    "orbital_period": { "value": 30589, "unit": "Earth days" },
+    "display_color": "#7FDDE3",
+    "fun_fact_en": "Uranus rotates on its side, with an axial tilt of about 98 degrees.",
+    "fun_fact_hi": "अरुण लगभग 98 डिग्री के अक्षीय झुकाव के कारण करवट लेकर घूमता है।"
+  },
+  {
+    "name": "Neptune",
+    "name_hi": "वरुण",
+    "distance_from_sun_km": 4515000000,
+    "diameter_km": 49528,
+    "orbital_period": { "value": 59800, "unit": "Earth days" },
+    "display_color": "#4169E1",
+    "fun_fact_en": "Neptune is the most distant of the eight planets from the Sun.",
+    "fun_fact_hi": "आठ ग्रहों में वरुण सूर्य से सबसे दूर स्थित है।"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "planet-01",
+    "topic": "Planets",
+    "question_en": "Which planet is closest to the Sun?",
+    "question_hi": "सूर्य के सबसे पास कौन-सा ग्रह है?",
+    "options_en": ["Earth", "Venus", "Mercury", "Mars"],
+    "options_hi": ["पृथ्वी", "शुक्र", "बुध", "मंगल"],
+    "correct_index": 2,
+    "explanation_en": "Mercury is the innermost planet, at an average distance of about 57.9 million km from the Sun.",
+    "explanation_hi": "बुध सूर्य से औसतन लगभग 5.79 करोड़ किमी दूर स्थित सबसे भीतरी ग्रह है।"
+  },
+  {
+    "id": "planet-02",
+    "topic": "Planets",
+    "question_en": "Which planet is famous for its broad, bright rings?",
+    "question_hi": "चौड़े और चमकीले वलयों के लिए कौन-सा ग्रह प्रसिद्ध है?",
+    "options_en": ["Saturn", "Mars", "Venus", "Mercury"],
+    "options_hi": ["शनि", "मंगल", "शुक्र", "बुध"],
+    "correct_index": 0,
+    "explanation_en": "All four giant planets have ring systems, but Saturn's rings are the brightest and easiest to see.",
+    "explanation_hi": "चारों विशाल ग्रहों के वलय हैं, लेकिन शनि के वलय सबसे चमकीले और आसानी से दिखाई देते हैं।"
+  },
+  {
+    "id": "planet-03",
+    "topic": "Planets",
+    "question_en": "About how long does Mercury take to orbit the Sun once?",
+    "question_hi": "बुध को सूर्य का एक चक्कर लगाने में लगभग कितना समय लगता है?",
+    "options_en": ["24 days", "88 days", "365 days", "687 days"],
+    "options_hi": ["24 दिन", "88 दिन", "365 दिन", "687 दिन"],
+    "correct_index": 1,
+    "explanation_en": "One Mercury year is about 88 Earth days.",
+    "explanation_hi": "बुध का एक वर्ष लगभग 88 पृथ्वी-दिनों का होता है।"
+  },
+  {
+    "id": "rocket-01",
+    "topic": "Rocket Physics",
+    "question_en": "What pushes a rocket forward in space?",
+    "question_hi": "अंतरिक्ष में रॉकेट को आगे कौन धकेलता है?",
+    "options_en": ["It pushes exhaust gas backward", "It pushes on the air", "It pulls on nearby planets", "Its fins pull it forward"],
+    "options_hi": ["यह निकास गैस को पीछे धकेलता है", "यह हवा को धकेलता है", "यह पास के ग्रहों को खींचता है", "इसके पंख इसे आगे खींचते हैं"],
+    "correct_index": 0,
+    "explanation_en": "The backward-moving exhaust produces a forward reaction force, as described by Newton's third law.",
+    "explanation_hi": "पीछे जाती निकास गैस आगे की ओर प्रतिक्रिया बल पैदा करती है। इसे न्यूटन का तीसरा नियम समझाता है।"
+  },
+  {
+    "id": "rocket-02",
+    "topic": "Rocket Physics",
+    "question_en": "For a rocket to lift off from the launch pad, its thrust must be greater than its…",
+    "question_hi": "लॉन्च पैड से उठने के लिए रॉकेट का थ्रस्ट किससे अधिक होना चाहिए?",
+    "options_en": ["Color", "Weight", "Length", "Orbit"],
+    "options_hi": ["रंग", "भार", "लंबाई", "कक्षा"],
+    "correct_index": 1,
+    "explanation_en": "When thrust exceeds the rocket's weight, the upward net force accelerates it away from the pad.",
+    "explanation_hi": "जब थ्रस्ट रॉकेट के भार से अधिक होता है, तब ऊपर की ओर परिणामी बल उसे पैड से उठाता है।"
+  },
+  {
+    "id": "rocket-03",
+    "topic": "Rocket Physics",
+    "question_en": "Why do many launch vehicles drop empty rocket stages during flight?",
+    "question_hi": "कई प्रक्षेपण यान उड़ान के दौरान खाली चरणों को क्यों अलग करते हैं?",
+    "options_en": ["To reduce mass they no longer need to carry", "To make the rocket brighter", "To create more gravity", "To slow the rocket down"],
+    "options_hi": ["अनावश्यक हो चुके द्रव्यमान को कम करने के लिए", "रॉकेट को अधिक चमकीला बनाने के लिए", "अधिक गुरुत्वाकर्षण बनाने के लिए", "रॉकेट को धीमा करने के लिए"],
+    "correct_index": 0,
+    "explanation_en": "After a stage uses its propellant, dropping its empty structure lets later stages accelerate less mass.",
+    "explanation_hi": "ईंधन समाप्त होने के बाद खाली चरण को हटाने से आगे के चरणों को कम द्रव्यमान तेज करना पड़ता है।"
+  },
+  {
+    "id": "isro-01",
+    "topic": "ISRO Missions",
+    "question_en": "Which Chandrayaan-3 spacecraft made the lunar soft landing on 23 August 2023?",
+    "question_hi": "23 अगस्त 2023 को चंद्रयान-3 के किस यान ने चंद्रमा पर सॉफ्ट लैंडिंग की?",
+    "options_en": ["Pragyan rover", "Vikram lander", "Aditya-L1", "Aryabhata"],
+    "options_hi": ["प्रज्ञान रोवर", "विक्रम लैंडर", "आदित्य-L1", "आर्यभट्ट"],
+    "correct_index": 1,
+    "explanation_en": "The Vikram lander touched down near the lunar south polar region; the Pragyan rover was then deployed.",
+    "explanation_hi": "विक्रम लैंडर ने चंद्र दक्षिणी ध्रुवीय क्षेत्र के पास उतरकर बाद में प्रज्ञान रोवर को तैनात किया।"
+  },
+  {
+    "id": "isro-02",
+    "topic": "ISRO Missions",
+    "question_en": "What does Aditya-L1 study?",
+    "question_hi": "आदित्य-L1 किसका अध्ययन करता है?",
+    "options_en": ["The Sun", "The rings of Saturn", "The surface of Mars", "Earth's oceans"],
+    "options_hi": ["सूर्य", "शनि के वलय", "मंगल की सतह", "पृथ्वी के महासागर"],
+    "correct_index": 0,
+    "explanation_en": "Aditya-L1 is India's first space-based observatory dedicated to studying the Sun from around the Sun-Earth L1 point.",
+    "explanation_hi": "आदित्य-L1 भारत की पहली अंतरिक्ष-आधारित सौर वेधशाला है, जो सूर्य-पृथ्वी L1 बिंदु के आसपास से सूर्य का अध्ययन करती है।"
+  },
+  {
+    "id": "isro-03",
+    "topic": "ISRO Missions",
+    "question_en": "What was Aryabhata?",
+    "question_hi": "आर्यभट्ट क्या था?",
+    "options_en": ["India's first satellite", "India's first Mars rover", "A crewed spacecraft", "A lunar lander"],
+    "options_hi": ["भारत का पहला उपग्रह", "भारत का पहला मंगल रोवर", "एक मानवयुक्त अंतरिक्ष यान", "एक चंद्र लैंडर"],
+    "correct_index": 0,
+    "explanation_en": "Aryabhata was India's first satellite, launched in 1975.",
+    "explanation_hi": "आर्यभट्ट भारत का पहला उपग्रह था, जिसे 1975 में प्रक्षेपित किया गया।"
+  },
+  {
+    "id": "isro-04",
+    "topic": "ISRO Missions",
+    "question_en": "Which launch vehicle carried Aditya-L1 into space?",
+    "question_hi": "आदित्य-L1 को अंतरिक्ष में कौन-सा प्रक्षेपण यान ले गया?",
+    "options_en": ["PSLV-C57", "LVM3-M4", "GSLV-F12", "SSLV-D2"],
+    "options_hi": ["PSLV-C57", "LVM3-M4", "GSLV-F12", "SSLV-D2"],
+    "correct_index": 0,
+    "explanation_en": "ISRO launched Aditya-L1 aboard PSLV-C57 on 2 September 2023.",
+    "explanation_hi": "इसरो ने 2 सितंबर 2023 को PSLV-C57 से आदित्य-L1 का प्रक्षेपण किया।"
+  }
+]

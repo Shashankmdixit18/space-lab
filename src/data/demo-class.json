@@ -1,0 +1,33 @@
+{
+  "is_demo_data": true,
+  "classes": [
+    {
+      "classCode": "CLASS8A",
+      "students": [
+        { "id": "8A-01", "name": "Aarav Sharma", "status": "active", "profile": "strong", "quiz_scores": { "Planets": 94, "Rocket Physics": 89, "ISRO Missions": 91 }, "launch_attempts": 8, "successful_launches": 7, "planets_explored": 8 },
+        { "id": "8A-02", "name": "Aanya Patel", "status": "active", "profile": "strong", "quiz_scores": { "Planets": 88, "Rocket Physics": 92, "ISRO Missions": 85 }, "launch_attempts": 7, "successful_launches": 6, "planets_explored": 8 },
+        { "id": "8A-03", "name": "Diya Nair", "status": "active", "profile": "strong", "quiz_scores": { "Planets": 91, "Rocket Physics": 84, "ISRO Missions": 89 }, "launch_attempts": 6, "successful_launches": 5, "planets_explored": 7 },
+        { "id": "8A-04", "name": "Kabir Mehta", "status": "active", "profile": "strong", "quiz_scores": { "Planets": 82, "Rocket Physics": 86, "ISRO Missions": 80 }, "launch_attempts": 5, "successful_launches": 4, "planets_explored": 7 },
+        { "id": "8A-05", "name": "Ishita Rao", "status": "active", "profile": "support-needed", "quiz_scores": { "Planets": 74, "Rocket Physics": 32, "ISRO Missions": 68 }, "launch_attempts": 4, "successful_launches": 1, "planets_explored": 5 },
+        { "id": "8A-06", "name": "Arjun Singh", "status": "active", "profile": "average", "quiz_scores": { "Planets": 65, "Rocket Physics": 71, "ISRO Missions": 72 }, "launch_attempts": 5, "successful_launches": 3, "planets_explored": 5 },
+        { "id": "8A-07", "name": "Meera Iyer", "status": "active", "profile": "average", "quiz_scores": { "Planets": 77, "Rocket Physics": 69, "ISRO Missions": 75 }, "launch_attempts": 4, "successful_launches": 3, "planets_explored": 6 },
+        { "id": "8A-08", "name": "Rehan Khan", "status": "active", "profile": "support-needed", "quiz_scores": { "Planets": 68, "Rocket Physics": 38, "ISRO Missions": 62 }, "launch_attempts": 3, "successful_launches": 1, "planets_explored": 4 },
+        { "id": "8A-09", "name": "Ananya Bose", "status": "active", "profile": "average", "quiz_scores": { "Planets": 72, "Rocket Physics": 65, "ISRO Missions": 80 }, "launch_attempts": 4, "successful_launches": 2, "planets_explored": 6 },
+        { "id": "8A-10", "name": "Lakshmi Menon", "status": "active", "profile": "support-needed", "quiz_scores": { "Planets": 79, "Rocket Physics": 28, "ISRO Missions": 70 }, "launch_attempts": 3, "successful_launches": 1, "planets_explored": 5 },
+        { "id": "8A-11", "name": "Dev Malhotra", "status": "inactive", "profile": "inactive", "quiz_scores": { "Planets": null, "Rocket Physics": null, "ISRO Missions": null }, "launch_attempts": 0, "successful_launches": 0, "planets_explored": 0 },
+        { "id": "8A-12", "name": "Nisha Gupta", "status": "inactive", "profile": "inactive", "quiz_scores": { "Planets": null, "Rocket Physics": null, "ISRO Missions": null }, "launch_attempts": 0, "successful_launches": 0, "planets_explored": 0 }
+      ]
+    },
+    {
+      "classCode": "CLASS9B",
+      "students": [
+        { "id": "9B-01", "name": "Vivaan Joshi", "status": "active", "profile": "strong", "quiz_scores": { "Planets": 93, "Rocket Physics": 90, "ISRO Missions": 94 }, "launch_attempts": 9, "successful_launches": 8, "planets_explored": 8 },
+        { "id": "9B-02", "name": "Saanvi Desai", "status": "active", "profile": "strong", "quiz_scores": { "Planets": 88, "Rocket Physics": 86, "ISRO Missions": 92 }, "launch_attempts": 7, "successful_launches": 6, "planets_explored": 8 },
+        { "id": "9B-03", "name": "Aditya Kulkarni", "status": "active", "profile": "strong", "quiz_scores": { "Planets": 85, "Rocket Physics": 91, "ISRO Missions": 87 }, "launch_attempts": 8, "successful_launches": 7, "planets_explored": 7 },
+        { "id": "9B-04", "name": "Tara Chatterjee", "status": "active", "profile": "average", "quiz_scores": { "Planets": 73, "Rocket Physics": 70, "ISRO Missions": 76 }, "launch_attempts": 5, "successful_launches": 3, "planets_explored": 6 },
+        { "id": "9B-05", "name": "Rohan Reddy", "status": "active", "profile": "average", "quiz_scores": { "Planets": 68, "Rocket Physics": 74, "ISRO Missions": 71 }, "launch_attempts": 4, "successful_launches": 2, "planets_explored": 5 },
+        { "id": "9B-06", "name": "Zoya Ali", "status": "active", "profile": "average", "quiz_scores": { "Planets": 79, "Rocket Physics": 67, "ISRO Missions": 73 }, "launch_attempts": 6, "successful_launches": 4, "planets_explored": 6 }
+      ]
+    }
+  ]
+}

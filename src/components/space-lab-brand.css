@@ -1,0 +1,63 @@
+.space-lab-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  color: #effaff;
+  white-space: nowrap;
+}
+
+.space-lab-brand__mark {
+  display: block;
+  width: 36px;
+  height: 36px;
+  flex: none;
+  filter: drop-shadow(0 0 8px rgba(63, 208, 242, .19));
+}
+
+.space-lab-brand__type {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+}
+
+.space-lab-brand__name {
+  display: inline-flex;
+  align-items: baseline;
+  font-family: 'Geist Variable', Geist, sans-serif;
+  font-size: 18px;
+  font-weight: 680;
+  letter-spacing: -.075em;
+  line-height: 1;
+}
+
+.space-lab-brand__name b {
+  margin-left: 2px;
+  color: #58d8f3;
+  font-weight: 760;
+  letter-spacing: -.06em;
+}
+
+.space-lab-brand__tagline {
+  color: #7e9aaf;
+  font-family: 'Geist Variable', Geist, sans-serif;
+  font-size: 7px;
+  font-weight: 600;
+  letter-spacing: .15em;
+  line-height: 1;
+}
+
+.space-lab-brand--compact .space-lab-brand__mark {
+  width: 34px;
+  height: 34px;
+}
+
+.space-lab-brand--compact .space-lab-brand__name {
+  font-size: 17px;
+}
+
+.space-lab-brand__tagline { display: none; }
+
+@media (min-width: 640px) {
+  .space-lab-brand:not(.space-lab-brand--compact) .space-lab-brand__tagline { display: block; }
+}
